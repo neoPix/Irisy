@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "The Helper {name} does not exists."
+msgstr "Le Helper {name} n'éxiste pas."
+
+msgid "You don't have the rigths to access this page."
+msgstr "Vous n'avez pas les droits necessaires pour accéder à cette page."
+
+msgid "Unable to load the dao {model}"
+msgstr "Impossible de charger la dao {model}"
+
+msgid "Dont have a controller or an action to play."
+msgstr "Aucune controlleur ou action n'est défini."
+
+msgid ""
+"The action \"{action}\" does not exists in the controller \"{controller}\"."
+msgstr ""
+"L'action \"{action}\" n'éxista pas dans la controlleur \"{controller}\""
+
+msgid "The controller \"{controller}\" does not exists."
+msgstr "Le controlleur \"{controller}\" n'éxiste pas"
+
+msgid "Can't load the controller {controller} on {path}"
+msgstr "Impossible de charger le controlleur {controller} au chemin {path}"
+
+msgid "Unable to connect to SQL server : {message}"
+msgstr "Impossible de se connecter au serveur de base de données : {message}"
+
+msgid "Unable to execute the request : {message}"
+msgstr "Impossible d'éxécuter la requète : {message}"
+
+msgid "Unable to get the last inserted id : {message}"
+msgstr "Impossible de récupérer les dernier id inséré : {message}"
+
+msgid "{number} results"
+msgstr "{number} resultats"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Internal error"
+msgstr "Erreur interne"
+
+msgid "Oops, something went wrong..."
+msgstr "Oups, quelque chose c'est mal passé."
+
+msgid "Not allowed"
+msgstr "Accès interdit"
+
+msgid "Oops, You are not allowed to perform this action."
+msgstr "Oups, Vous n'êtes pas autorisé a réaliser cette action."
+
+msgid "Not found"
+msgstr "Non trouvé"
+
+msgid "Oops, this page don't exists anymore."
+msgstr "Oups, cette page n'éxista plus."
+
+msgid "An error occured during the page processing, please try agin later."
+msgstr ""
+"Une erreur à eu lieu pendant la génération de la page, veuillez réessayer "
+"plus tard."
+
+msgid "My web site"
+msgstr "Mon site web"

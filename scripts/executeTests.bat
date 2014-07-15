@@ -1,0 +1,1 @@
+php ..\Lib\Edely\test.lib.php > ./../Log\Test\last.txt

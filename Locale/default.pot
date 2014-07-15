@@ -1,0 +1,100 @@
+#:D:\wampserver\wamp\www\Edely\Lib\Edely/base.class.php
+msgid "The Helper {name} does not exists."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Controller/Controller.class.php
+msgid "You don't have the rigths to access this page."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Controller/Controller.class.php
+msgid "Unable to load the dao {model}"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/Rooter.class.php
+msgid "Dont have a controller or an action to play."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/Rooter.class.php
+msgid "The action \"{action}\" does not exists in the controller \"{controller}\"."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/Rooter.class.php
+msgid "The controller \"{controller}\" does not exists."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/Rooter.class.php
+msgid "Can't load the controller {controller} on {path}"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/SqlConnection.class.php
+msgid "Unable to connect to SQL server : {message}"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/SqlConnection.class.php
+msgid "Unable to execute the request : {message}"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/SqlConnection.class.php
+msgid "Unable to get the last inserted id : {message}"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/Translator.class.php
+msgid "{number} results"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\Lib\Edely\Tool/Translator.class.php
+msgid "Home"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Error/serverError.ctp
+msgid "Internal error"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Error/all.ctp
+msgid "Oops, something went wrong..."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Error/notAllowed.ctp
+msgid "Not allowed"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Error/notAllowed.ctp
+msgid "Oops, You are not allowed to perform this action."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Error/notFound.ctp
+msgid "Not found"
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Error/notFound.ctp
+msgid "Oops, this page don't exists anymore."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Error/serverError.ctp
+msgid "An error occured during the page processing, please try agin later."
+msgstr ""
+
+
+#:D:\wampserver\wamp\www\Edely\View\Layout/default.ctp
+msgid "My web site"
+msgstr ""
+
+
